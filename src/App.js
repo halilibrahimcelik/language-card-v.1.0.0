@@ -1,10 +1,10 @@
+import Banner from "./components/banner/Banner";
 import "./scss/App.scss";
-
+import "./scss/App.scss";
 function App() {
   return (
-    <div>
-      <h2>deneme</h2>
-      <p>Lorem ipsum dolor sit amet.</p>
+    <div className={"container"}>
+      <Banner />
     </div>
   );
 }
