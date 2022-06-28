@@ -1,4 +1,28 @@
 @import "../../scss/reset";
-.container{
+.wrapper{
     background-color: $bgCard-color;
+    box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.4);
+    border-radius: 9px;
+    h2:first-child{
+        margin: 1rem;
+        color:$color-text;
+        text-align: center;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+        font-size: 2rem;
+    
+    }
+
+}
+.container{
+    width: 30rem;
+    padding:1rem;
+    // height:40rem;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(4,1fr);
+    justify-content: center;
+    text-align: center;
+    gap:1rem;
+    flex-wrap: wrap;
+ 
 }

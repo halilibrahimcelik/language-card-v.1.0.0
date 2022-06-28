@@ -7,12 +7,14 @@
     margin-right: auto;
 }
 .container{
-    display:inline-flex;
+    display:flex;
+
     flex-wrap: wrap;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
- margin: 1rem;
- gap: 1rem;
+ margin: 5rem;
+ gap: 2rem;
     
     
 }
