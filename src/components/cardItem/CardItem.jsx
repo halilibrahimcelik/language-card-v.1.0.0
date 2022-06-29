@@ -17,9 +17,9 @@ const CardItem = (props) => {
  }
   return (
     <div  className={styles.container}>
-      {!isVisible?<div>
+      {!isVisible?<div className={styles["language-container"]}>
          <img onClick={onClickHandler} src={image} alt="" />
-        <h2>{name} </h2>
+        <h4>{name} </h4>
       </div>:null}
 {isVisible?<CardInfo onVisibleHandler={onClickHandler} options={options}/>:null}
 

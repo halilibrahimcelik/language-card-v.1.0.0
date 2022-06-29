@@ -9,8 +9,10 @@ ul{
 text-align: left;
 display: flex;
 flex-direction: column;
+flex-wrap: wrap;
 justify-content: center;
 text-align: left;
+margin-left: 0.9rem;
 padding:0.2rem;
 li{
    font-weight: 800;

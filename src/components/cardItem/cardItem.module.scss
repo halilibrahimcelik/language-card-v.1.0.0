@@ -15,18 +15,25 @@
         box-shadow: 3px 3px 5px 3px rgba(0,0,0,0.4);
      }
     img{
-        width: 50%;
-        
+        width: 70%;
+        height: 100px;
         transform: scale(0.8);
         cursor: pointer;
         transition: all 0.4s ease-in;
         object-fit: contain;
         &:hover{
-            transform:  scale(0.9);
+            transform:  scale(1);
         }
 
     }
 
+    .language-container{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
    
 
 }
