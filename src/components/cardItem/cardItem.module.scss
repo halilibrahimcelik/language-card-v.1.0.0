@@ -6,17 +6,23 @@
     // width: 18rem;
     flex-direction: column;
     border-radius: 9px;
+    height: 8.5rem;
     align-items: center;
     justify-content: center;
     padding:1rem;
+
+     &:hover{
+        box-shadow: 3px 3px 5px 3px rgba(0,0,0,0.4);
+     }
     img{
         width: 50%;
+        
         transform: scale(0.8);
         cursor: pointer;
         transition: all 0.4s ease-in;
         object-fit: contain;
         &:hover{
-            transform:  scale(1);
+            transform:  scale(0.9);
         }
 
     }
