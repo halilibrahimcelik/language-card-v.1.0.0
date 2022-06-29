@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.0c7d8b6c.css",
-    "main.js": "/static/js/main.9fa1f7b7.js",
-    "static/media/php.png": "/static/media/php.c767c5711b90ad735bbf.png",
-    "static/media/python.png": "/static/media/python.40f1d1b14bc2113b7b05.png",
-    "static/media/go.png": "/static/media/go.a0b3b49ab90e11213e6d.png",
-    "static/media/css.png": "/static/media/css.616d011c7fdb34d35b95.png",
-    "static/media/javascript.png": "/static/media/javascript.7f8751632b42a9932c15.png",
-    "static/media/react.svg": "/static/media/react.7b78f5c3c3acf6dd7722fd9c2f83c963.svg",
-    "static/media/java.png": "/static/media/java.a507ef793e957ee9b476.png",
-    "static/media/cpp.png": "/static/media/cpp.c0a0d2fd9fd3519dbdce.png",
-    "index.html": "/index.html",
-    "main.0c7d8b6c.css.map": "/static/css/main.0c7d8b6c.css.map",
-    "main.9fa1f7b7.js.map": "/static/js/main.9fa1f7b7.js.map"
+    "main.css": "/language-card-v.1.0.0/static/css/main.0c7d8b6c.css",
+    "main.js": "/language-card-v.1.0.0/static/js/main.8e0f3205.js",
+    "static/media/php.png": "/language-card-v.1.0.0/static/media/php.c767c5711b90ad735bbf.png",
+    "static/media/python.png": "/language-card-v.1.0.0/static/media/python.40f1d1b14bc2113b7b05.png",
+    "static/media/go.png": "/language-card-v.1.0.0/static/media/go.a0b3b49ab90e11213e6d.png",
+    "static/media/css.png": "/language-card-v.1.0.0/static/media/css.616d011c7fdb34d35b95.png",
+    "static/media/javascript.png": "/language-card-v.1.0.0/static/media/javascript.7f8751632b42a9932c15.png",
+    "static/media/react.svg": "/language-card-v.1.0.0/static/media/react.7b78f5c3c3acf6dd7722fd9c2f83c963.svg",
+    "static/media/java.png": "/language-card-v.1.0.0/static/media/java.a507ef793e957ee9b476.png",
+    "static/media/cpp.png": "/language-card-v.1.0.0/static/media/cpp.c0a0d2fd9fd3519dbdce.png",
+    "index.html": "/language-card-v.1.0.0/index.html",
+    "main.0c7d8b6c.css.map": "/language-card-v.1.0.0/static/css/main.0c7d8b6c.css.map",
+    "main.8e0f3205.js.map": "/language-card-v.1.0.0/static/js/main.8e0f3205.js.map"
   },
   "entrypoints": [
     "static/css/main.0c7d8b6c.css",
-    "static/js/main.9fa1f7b7.js"
+    "static/js/main.8e0f3205.js"
   ]
 }
